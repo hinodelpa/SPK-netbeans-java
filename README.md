@@ -1,2 +1,2 @@
-# WisataMagelang
-Aplikasi Wisata Magelang Android
+# SPK
+SPK Seleksi Student Staff Metode Weighted Product (WP)
